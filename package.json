@@ -1,0 +1,19 @@
+{
+  "name": "paytmnodejsbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "mongodb": "^4.17.2",
+    "telegraf": "^4.15.3",
+    "telegraf-ratelimit": "^2.0.0",
+    "web3": "^1.9.0"
+  }
+}
